@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+    opacity: 100%;
+}
+
+.bg-image {
+    position: absolute;
+    opacity: 25%;
+    color: gold;
+}
+
+.form {
+    border: 1px;
+    box-sizing: content-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+}
